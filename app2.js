@@ -19,8 +19,8 @@ client = new usergrid.client({
     orgName:'mthayer',
     appName:'talent-pool',
     authType:usergrid.AUTH_CLIENT_ID,
-    clientId:'YXA6Y05H8LqtEeOdeGH6me8EBw',
-    clientSecret:'YXA6LLfLi4fq7fKb_4wz-aYhFy0w9Vw',
+    clientId:'XXX',
+    clientSecret:'XXX',
     logging: true, //optional - turn on logging, off by default
     buildCurl: false //optional - turn on curl commands, off by default
 });
